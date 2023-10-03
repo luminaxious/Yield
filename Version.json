@@ -1,0 +1,5 @@
+{
+    "VERSION": "6.0.0",
+    "ANNOUNCEMENT": "",
+    "LOG": "New things have been added such as:\n\"time\" / \"currenttime\"\nTells you the current time.\n\"date\" / \"currentdate\"\nTells you the current date; including time\n\"makefolder\" / \"mkf\"\nCreates a new folder inside the \"WORKSPACE\" folder;\nIf no name given, it's random strings and symbols."
+}
