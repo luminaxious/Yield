@@ -1,5 +1,5 @@
 local GlobalVersion = {
-    ["VERSION"] = 6.0.0
+    ["VERSION"] = '6.0.0'
     ["ANNOUNCEMENT"] = ""
     ["LOG"] = [[New things have been added such as:
     "time" / "currenttime"
