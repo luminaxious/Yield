@@ -1,10 +1,8 @@
-# This is the new project that i made for "Infinite yield", Consisting of more commands and filling out the empty spaces.
 
-# I hope you enjoy this new version that will possibly increase the enjoyement.
+## ` PROJECT-INFINITE-YIELD `
+BEFORE YOU COMPLAIN! 
+* I'm not an impersonator neither am i the person who made infinite yield
+* Credits  to all the valid owners, i'm just an person who's revamping _`infinite yield`_
+* 
 
 
-
-
-
-
-# All credits goes to the respectful owners, i do not claim this as mine; rather i claim it as my reimagination.
