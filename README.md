@@ -12,9 +12,7 @@ BEFORE YOU COMPLAIN!
   * A: You can easily `auto-update` by using the `loadstring` method;
   * For example:
   
-  `local printout = loadstring(game:HttpGet("https://github.com/luminaxious/Yield/edit/main/README", true))`
-
-  `print(printout)`
+  `loadstring(game:HttpGet("https://[linkhere]", true))`
 
 
 
